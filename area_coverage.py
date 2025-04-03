@@ -1,6 +1,6 @@
 from shapely.geometry import Point, Polygon, LinearRing, LineString
 from shapely.geometry import MultiLineString, MultiPoint, GeometryCollection
-from shapely.geos import TopologicalError
+from shapely.errors import TopologicalError
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.collections import LineCollection
