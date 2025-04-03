@@ -1,4 +1,4 @@
-# 无人机区域覆盖路径规划 / Drone Area Coverage Path Planning
+# DroneCoveragePlanner - 无人机区域覆盖路径规划
 
 这是一个用于无人机区域覆盖路径规划的Python项目。该项目实现了基于Boustrophedon分解的区域覆盖路径规划算法，可以生成高效的无人机覆盖路径。
 
@@ -81,8 +81,6 @@ plt.show()
 项目包含一个示例代码，展示了如何创建一个带孔的多边形并生成覆盖路径。运行`area_coverage.py`文件即可查看示例。
 
 The project includes an example code that demonstrates how to create a polygon with holes and generate a coverage path. Run the `area_coverage.py` file to see the example.
-
-
 
 ## 许可证 / License
 
